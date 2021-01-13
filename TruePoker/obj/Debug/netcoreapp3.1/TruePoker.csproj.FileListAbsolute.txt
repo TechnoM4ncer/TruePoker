@@ -1,0 +1,12 @@
+C:\Users\TechnoM4ncer\source\repos\TruePoker\TruePoker\bin\Debug\netcoreapp3.1\TruePoker.exe
+C:\Users\TechnoM4ncer\source\repos\TruePoker\TruePoker\bin\Debug\netcoreapp3.1\TruePoker.deps.json
+C:\Users\TechnoM4ncer\source\repos\TruePoker\TruePoker\bin\Debug\netcoreapp3.1\TruePoker.runtimeconfig.json
+C:\Users\TechnoM4ncer\source\repos\TruePoker\TruePoker\bin\Debug\netcoreapp3.1\TruePoker.runtimeconfig.dev.json
+C:\Users\TechnoM4ncer\source\repos\TruePoker\TruePoker\bin\Debug\netcoreapp3.1\TruePoker.dll
+C:\Users\TechnoM4ncer\source\repos\TruePoker\TruePoker\bin\Debug\netcoreapp3.1\TruePoker.pdb
+C:\Users\TechnoM4ncer\source\repos\TruePoker\TruePoker\obj\Debug\netcoreapp3.1\TruePoker.AssemblyInfoInputs.cache
+C:\Users\TechnoM4ncer\source\repos\TruePoker\TruePoker\obj\Debug\netcoreapp3.1\TruePoker.AssemblyInfo.cs
+C:\Users\TechnoM4ncer\source\repos\TruePoker\TruePoker\obj\Debug\netcoreapp3.1\TruePoker.csproj.CoreCompileInputs.cache
+C:\Users\TechnoM4ncer\source\repos\TruePoker\TruePoker\obj\Debug\netcoreapp3.1\TruePoker.dll
+C:\Users\TechnoM4ncer\source\repos\TruePoker\TruePoker\obj\Debug\netcoreapp3.1\TruePoker.pdb
+C:\Users\TechnoM4ncer\source\repos\TruePoker\TruePoker\obj\Debug\netcoreapp3.1\TruePoker.genruntimeconfig.cache
