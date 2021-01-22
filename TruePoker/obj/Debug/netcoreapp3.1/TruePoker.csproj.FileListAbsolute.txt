@@ -10,3 +10,4 @@ C:\Users\TechnoM4ncer\source\repos\TruePoker\TruePoker\obj\Debug\netcoreapp3.1\T
 C:\Users\TechnoM4ncer\source\repos\TruePoker\TruePoker\obj\Debug\netcoreapp3.1\TruePoker.dll
 C:\Users\TechnoM4ncer\source\repos\TruePoker\TruePoker\obj\Debug\netcoreapp3.1\TruePoker.pdb
 C:\Users\TechnoM4ncer\source\repos\TruePoker\TruePoker\obj\Debug\netcoreapp3.1\TruePoker.genruntimeconfig.cache
+C:\Users\TechnoM4ncer\source\repos\TruePoker\TruePoker\obj\Debug\netcoreapp3.1\TruePoker.csprojAssemblyReference.cache
